@@ -33,13 +33,30 @@
    "source": [
     "![conda.png](images/conda.png)"
    ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "58713f83-2dcf-4d69-ad50-815cf72d9147",
+   "metadata": {},
+   "source": [
+    "#docker使用输出hello，world！"
+   ]
+  },
+  {
+   "attachments": {},
+   "cell_type": "markdown",
+   "id": "fa7a0557-49bd-40ac-b559-db2f3d13ba9b",
+   "metadata": {},
+   "source": [
+    "![docker.png](images/docker.png)"
+   ]
   }
  ],
  "metadata": {
   "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
+   "display_name": "Python [conda env:base] *",
    "language": "python",
-   "name": "python3"
+   "name": "conda-base-py"
   },
   "language_info": {
    "codemirror_mode": {
@@ -51,7 +68,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.13.3"
+   "version": "3.12.7"
   }
  },
  "nbformat": 4,
